@@ -1,4 +1,5 @@
 float angle = 0;
+boolean rotating = true;
 void setup() {
   fill(#AD71B7);
 }
@@ -17,6 +18,12 @@ void draw() {
 }
 
 void mousePressed() {
-exit();
-//noLoop();
+if(rotating){
+noLoop();
+rotating = false;
+}
+else {
+  loop();
+  rotating = true;
+}
 }
