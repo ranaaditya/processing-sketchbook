@@ -14,10 +14,7 @@
 
 #### If you're here for a [Delta Winter of Code](https://dwoc.io) project, check out the [Contributor's Guide](https://github.com/ranaaditya/processing-sketchbook/wiki/DWoC-Contributor's-Guide) in the Wiki.
 
-
-### To test and run these code clone and build PDE from [here](https://github.com/processing/processing) and android-mode from [here](https://github.com/processing/processing-android)
-
-### Or simply download latest porcessing distribution from [here](https://processing.org/download/) and run android-mode.
+### For Setting up Processing follow this[wiki](https://github.com/ranaaditya/processing-sketchbook/wiki/Setting-up-Processing)
 
 ### To use these code inside Android-studio project then include processing-android Core library in Gradle build file from [maven](https://mvnrepository.com/artifact/org.p5android/processing-core) and follow [instructions](https://android.processing.org/) how to use.
 
