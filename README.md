@@ -1,6 +1,10 @@
 # processing-sketchbook
 
 
+<p align="center">
+  <img src="https://i.imgur.com/CxhabJh.png" alt="Sublime's custom image"/>
+</p>
+
 ### This Sketchbook contains sketches written in [Processing](https://processing.org/) language.
 
 ```diff
