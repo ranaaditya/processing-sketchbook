@@ -11,14 +11,15 @@
 - Note: Sketches have been written mostly for android-mode and has some codes written for JAVA-MODE as well.
 ```
 
-
+<!--
 ## Hello, DWoC!
 
 <img src="https://imgur.com/TLx5rsv.png" width="325px" />
 
 #### If you're here for a [Delta Winter of Code](https://dwoc.io) project, check out the [Contributor's Guide](https://github.com/ranaaditya/processing-sketchbook/wiki/DWoC-Contributor's-Guide) in the Wiki.
+-->
 
-### For Setting up Processing follow this[wiki](https://github.com/ranaaditya/processing-sketchbook/wiki/Setting-up-Processing)
+### For Setting up Processing follow this [wiki](https://github.com/ranaaditya/processing-sketchbook/wiki/Setting-up-Processing)
 
 ### To use these code inside Android-studio project then include processing-android Core library in Gradle build file from [maven](https://mvnrepository.com/artifact/org.p5android/processing-core) and follow [instructions](https://android.processing.org/) how to use.
 
